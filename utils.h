@@ -31,6 +31,7 @@ void append(intList * list, int item) {
 		int* newList = malloc(list->capacity * sizeof(int));
 		memcpy(newList, list->contents, list->len);
 	}
+	free(list->contents);
 	list->contents[list->len] = item;
 	list->len ++;
 }
