@@ -12,7 +12,7 @@ int main() {
     fseek(f, 0, SEEK_SET);
     fread(filebuf, sizeof(char), fsz, f);
 
-    size_t rows = 1;
+    size_t rows = 0;
     size_t cols = 0;
     int colsDone = 0;
     for(int i = 0; i < fsz; i++) {
