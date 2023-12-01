@@ -1,0 +1,21 @@
+
+void chase(int hr, int hc, int* tr, int* tc) {
+    printf("%i", (*tr));
+    if((*tr) - hr > 1) {
+        (*tr) --;
+        if(*tc < hc) { *tc++; }
+        if(*tc > hc) { *tc--; }
+    } else if((*tr) - hr < -1) {
+        (*tr) ++;
+        if(*tc < hc) { *tc++; }
+        if(*tc > hc) { *tc--; }
+    } else if(*tc - hc > 1) {
+        *tc --;
+        if((*tr) < hr) { (*tr)++; }
+        if((*tr) > hr) { (*tr)--; }
+    } else if(*tc - hc < -1) {
+        *tc ++;
+        if((*tr) < hr) { (*tr)++; }
+        if((*tr) > hr) { (*tr)--; }
+    }
+}
