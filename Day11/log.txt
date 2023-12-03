@@ -1,0 +1,7153 @@
+Monkey 0: 99, 67, 92, 61, 83, 64, 98
+	Inspect 99 -> * 17 = 1683
+		Decay to 561
+		Throw to 4
+		Count = 1
+	Inspect 67 -> * 17 = 1139
+		Decay to 379
+		Throw to 2
+		Count = 2
+	Inspect 92 -> * 17 = 1564
+		Decay to 521
+		Throw to 2
+		Count = 3
+	Inspect 61 -> * 17 = 1037
+		Decay to 345
+		Throw to 4
+		Count = 4
+	Inspect 83 -> * 17 = 1411
+		Decay to 470
+		Throw to 2
+		Count = 5
+	Inspect 64 -> * 17 = 1088
+		Decay to 362
+		Throw to 2
+		Count = 6
+	Inspect 98 -> * 17 = 1666
+		Decay to 555
+		Throw to 4
+		Count = 7
+Monkey 1: 78, 74, 88, 89, 50
+	Inspect 78 -> * 11 = 858
+		Decay to 286
+		Throw to 5
+		Count = 1
+	Inspect 74 -> * 11 = 814
+		Decay to 271
+		Throw to 5
+		Count = 2
+	Inspect 88 -> * 11 = 968
+		Decay to 322
+		Throw to 5
+		Count = 3
+	Inspect 89 -> * 11 = 979
+		Decay to 326
+		Throw to 5
+		Count = 4
+	Inspect 50 -> * 11 = 550
+		Decay to 183
+		Throw to 5
+		Count = 5
+Monkey 2: 98, 91, 379, 521, 470, 362
+	Inspect 98 -> + 4 = 102
+		Decay to 34
+		Throw to 6
+		Count = 1
+	Inspect 91 -> + 4 = 95
+		Decay to 31
+		Throw to 4
+		Count = 2
+	Inspect 379 -> + 4 = 383
+		Decay to 127
+		Throw to 4
+		Count = 3
+	Inspect 521 -> + 4 = 525
+		Decay to 175
+		Throw to 4
+		Count = 4
+	Inspect 470 -> + 4 = 474
+		Decay to 158
+		Throw to 6
+		Count = 5
+	Inspect 362 -> + 4 = 366
+		Decay to 122
+		Throw to 6
+		Count = 6
+Monkey 3: 59, 72, 94, 91, 79, 88, 94, 51
+	Inspect 59 -> ^ 2 = 3481
+		Decay to 1160
+		Throw to 5
+		Count = 1
+	Inspect 72 -> ^ 2 = 5184
+		Decay to 1728
+		Throw to 5
+		Count = 2
+	Inspect 94 -> ^ 2 = 8836
+		Decay to 2945
+		Throw to 5
+		Count = 3
+	Inspect 91 -> ^ 2 = 8281
+		Decay to 2760
+		Throw to 5
+		Count = 4
+	Inspect 79 -> ^ 2 = 6241
+		Decay to 2080
+		Throw to 0
+		Count = 5
+	Inspect 88 -> ^ 2 = 7744
+		Decay to 2581
+		Throw to 5
+		Count = 6
+	Inspect 94 -> ^ 2 = 8836
+		Decay to 2945
+		Throw to 5
+		Count = 7
+	Inspect 51 -> ^ 2 = 2601
+		Decay to 867
+		Throw to 5
+		Count = 8
+Monkey 4: 95, 72, 78, 561, 345, 555, 31, 127, 175
+	Inspect 95 -> + 7 = 102
+		Decay to 34
+		Throw to 6
+		Count = 1
+	Inspect 72 -> + 7 = 79
+		Decay to 26
+		Throw to 6
+		Count = 2
+	Inspect 78 -> + 7 = 85
+		Decay to 28
+		Throw to 6
+		Count = 3
+	Inspect 561 -> + 7 = 568
+		Decay to 189
+		Throw to 6
+		Count = 4
+	Inspect 345 -> + 7 = 352
+		Decay to 117
+		Throw to 6
+		Count = 5
+	Inspect 555 -> + 7 = 562
+		Decay to 187
+		Throw to 7
+		Count = 6
+	Inspect 31 -> + 7 = 38
+		Decay to 12
+		Throw to 6
+		Count = 7
+	Inspect 127 -> + 7 = 134
+		Decay to 44
+		Throw to 7
+		Count = 8
+	Inspect 175 -> + 7 = 182
+		Decay to 60
+		Throw to 6
+		Count = 9
+Monkey 5: 76, 286, 271, 322, 326, 183, 1160, 1728, 2945, 2760, 2581, 2945, 867
+	Inspect 76 -> + 8 = 84
+		Decay to 28
+		Throw to 2
+		Count = 1
+	Inspect 286 -> + 8 = 294
+		Decay to 98
+		Throw to 2
+		Count = 2
+	Inspect 271 -> + 8 = 279
+		Decay to 93
+		Throw to 2
+		Count = 3
+	Inspect 322 -> + 8 = 330
+		Decay to 110
+		Throw to 2
+		Count = 4
+	Inspect 326 -> + 8 = 334
+		Decay to 111
+		Throw to 2
+		Count = 5
+	Inspect 183 -> + 8 = 191
+		Decay to 63
+		Throw to 2
+		Count = 6
+	Inspect 1160 -> + 8 = 1168
+		Decay to 389
+		Throw to 2
+		Count = 7
+	Inspect 1728 -> + 8 = 1736
+		Decay to 578
+		Throw to 0
+		Count = 8
+	Inspect 2945 -> + 8 = 2953
+		Decay to 984
+		Throw to 2
+		Count = 9
+	Inspect 2760 -> + 8 = 2768
+		Decay to 922
+		Throw to 2
+		Count = 10
+	Inspect 2581 -> + 8 = 2589
+		Decay to 863
+		Throw to 2
+		Count = 11
+	Inspect 2945 -> + 8 = 2953
+		Decay to 984
+		Throw to 2
+		Count = 12
+	Inspect 867 -> + 8 = 875
+		Decay to 291
+		Throw to 2
+		Count = 13
+Monkey 6: 69, 60, 53, 89, 71, 88, 34, 158, 122, 34, 26, 28, 189, 117, 12, 60
+	Inspect 69 -> + 5 = 74
+		Decay to 24
+		Throw to 1
+		Count = 1
+	Inspect 60 -> + 5 = 65
+		Decay to 21
+		Throw to 1
+		Count = 2
+	Inspect 53 -> + 5 = 58
+		Decay to 19
+		Throw to 7
+		Count = 3
+	Inspect 89 -> + 5 = 94
+		Decay to 31
+		Throw to 1
+		Count = 4
+	Inspect 71 -> + 5 = 76
+		Decay to 25
+		Throw to 1
+		Count = 5
+	Inspect 88 -> + 5 = 93
+		Decay to 31
+		Throw to 1
+		Count = 6
+	Inspect 34 -> + 5 = 39
+		Decay to 13
+		Throw to 1
+		Count = 7
+	Inspect 158 -> + 5 = 163
+		Decay to 54
+		Throw to 1
+		Count = 8
+	Inspect 122 -> + 5 = 127
+		Decay to 42
+		Throw to 1
+		Count = 9
+	Inspect 34 -> + 5 = 39
+		Decay to 13
+		Throw to 1
+		Count = 10
+	Inspect 26 -> + 5 = 31
+		Decay to 10
+		Throw to 1
+		Count = 11
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 12
+	Inspect 189 -> + 5 = 194
+		Decay to 64
+		Throw to 1
+		Count = 13
+	Inspect 117 -> + 5 = 122
+		Decay to 40
+		Throw to 1
+		Count = 14
+	Inspect 12 -> + 5 = 17
+		Decay to 5
+		Throw to 1
+		Count = 15
+	Inspect 60 -> + 5 = 65
+		Decay to 21
+		Throw to 1
+		Count = 16
+Monkey 7: 72, 54, 63, 80, 187, 44, 19
+	Inspect 72 -> + 3 = 75
+		Decay to 25
+		Throw to 3
+		Count = 1
+	Inspect 54 -> + 3 = 57
+		Decay to 19
+		Throw to 3
+		Count = 2
+	Inspect 63 -> + 3 = 66
+		Decay to 22
+		Throw to 3
+		Count = 3
+	Inspect 80 -> + 3 = 83
+		Decay to 27
+		Throw to 3
+		Count = 4
+	Inspect 187 -> + 3 = 190
+		Decay to 63
+		Throw to 1
+		Count = 5
+	Inspect 44 -> + 3 = 47
+		Decay to 15
+		Throw to 3
+		Count = 6
+	Inspect 19 -> + 3 = 22
+		Decay to 7
+		Throw to 1
+		Count = 7
+Monkey 0: 2080, 578
+	Inspect 2080 -> * 17 = 35360
+		Decay to 11786
+		Throw to 2
+		Count = 8
+	Inspect 578 -> * 17 = 9826
+		Decay to 3275
+		Throw to 2
+		Count = 9
+Monkey 1: 24, 21, 31, 25, 31, 13, 54, 42, 13, 10, 11, 64, 40, 5, 21, 63, 7
+	Inspect 24 -> * 11 = 264
+		Decay to 88
+		Throw to 5
+		Count = 6
+	Inspect 21 -> * 11 = 231
+		Decay to 77
+		Throw to 5
+		Count = 7
+	Inspect 31 -> * 11 = 341
+		Decay to 113
+		Throw to 5
+		Count = 8
+	Inspect 25 -> * 11 = 275
+		Decay to 91
+		Throw to 5
+		Count = 9
+	Inspect 31 -> * 11 = 341
+		Decay to 113
+		Throw to 5
+		Count = 10
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 11
+	Inspect 54 -> * 11 = 594
+		Decay to 198
+		Throw to 5
+		Count = 12
+	Inspect 42 -> * 11 = 462
+		Decay to 154
+		Throw to 5
+		Count = 13
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 14
+	Inspect 10 -> * 11 = 110
+		Decay to 36
+		Throw to 5
+		Count = 15
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 16
+	Inspect 64 -> * 11 = 704
+		Decay to 234
+		Throw to 5
+		Count = 17
+	Inspect 40 -> * 11 = 440
+		Decay to 146
+		Throw to 5
+		Count = 18
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 19
+	Inspect 21 -> * 11 = 231
+		Decay to 77
+		Throw to 5
+		Count = 20
+	Inspect 63 -> * 11 = 693
+		Decay to 231
+		Throw to 5
+		Count = 21
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 22
+Monkey 2: 28, 98, 93, 110, 111, 63, 389, 984, 922, 863, 984, 291, 11786, 3275
+	Inspect 28 -> + 4 = 32
+		Decay to 10
+		Throw to 6
+		Count = 7
+	Inspect 98 -> + 4 = 102
+		Decay to 34
+		Throw to 6
+		Count = 8
+	Inspect 93 -> + 4 = 97
+		Decay to 32
+		Throw to 6
+		Count = 9
+	Inspect 110 -> + 4 = 114
+		Decay to 38
+		Throw to 6
+		Count = 10
+	Inspect 111 -> + 4 = 115
+		Decay to 38
+		Throw to 6
+		Count = 11
+	Inspect 63 -> + 4 = 67
+		Decay to 22
+		Throw to 6
+		Count = 12
+	Inspect 389 -> + 4 = 393
+		Decay to 131
+		Throw to 4
+		Count = 13
+	Inspect 984 -> + 4 = 988
+		Decay to 329
+		Throw to 4
+		Count = 14
+	Inspect 922 -> + 4 = 926
+		Decay to 308
+		Throw to 6
+		Count = 15
+	Inspect 863 -> + 4 = 867
+		Decay to 289
+		Throw to 4
+		Count = 16
+	Inspect 984 -> + 4 = 988
+		Decay to 329
+		Throw to 4
+		Count = 17
+	Inspect 291 -> + 4 = 295
+		Decay to 98
+		Throw to 6
+		Count = 18
+	Inspect 11786 -> + 4 = 11790
+		Decay to 3930
+		Throw to 6
+		Count = 19
+	Inspect 3275 -> + 4 = 3279
+		Decay to 1093
+		Throw to 4
+		Count = 20
+Monkey 3: 25, 19, 22, 27, 15, 40, 25
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 9
+	Inspect 19 -> ^ 2 = 361
+		Decay to 120
+		Throw to 5
+		Count = 10
+	Inspect 22 -> ^ 2 = 484
+		Decay to 161
+		Throw to 5
+		Count = 11
+	Inspect 27 -> ^ 2 = 729
+		Decay to 243
+		Throw to 5
+		Count = 12
+	Inspect 15 -> ^ 2 = 225
+		Decay to 75
+		Throw to 5
+		Count = 13
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 14
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 15
+Monkey 4: 131, 329, 289, 329, 1093
+	Inspect 131 -> + 7 = 138
+		Decay to 46
+		Throw to 6
+		Count = 10
+	Inspect 329 -> + 7 = 336
+		Decay to 112
+		Throw to 6
+		Count = 11
+	Inspect 289 -> + 7 = 296
+		Decay to 98
+		Throw to 6
+		Count = 12
+	Inspect 329 -> + 7 = 336
+		Decay to 112
+		Throw to 6
+		Count = 13
+	Inspect 1093 -> + 7 = 1100
+		Decay to 366
+		Throw to 6
+		Count = 14
+Monkey 5: 88, 77, 113, 91, 113, 47, 198, 154, 47, 36, 234, 146, 18, 77, 231, 120, 161, 243, 75
+	Inspect 88 -> + 8 = 96
+		Decay to 32
+		Throw to 2
+		Count = 14
+	Inspect 77 -> + 8 = 85
+		Decay to 28
+		Throw to 2
+		Count = 15
+	Inspect 113 -> + 8 = 121
+		Decay to 40
+		Throw to 2
+		Count = 16
+	Inspect 91 -> + 8 = 99
+		Decay to 33
+		Throw to 2
+		Count = 17
+	Inspect 113 -> + 8 = 121
+		Decay to 40
+		Throw to 2
+		Count = 18
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 19
+	Inspect 198 -> + 8 = 206
+		Decay to 68
+		Throw to 0
+		Count = 20
+	Inspect 154 -> + 8 = 162
+		Decay to 54
+		Throw to 2
+		Count = 21
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 22
+	Inspect 36 -> + 8 = 44
+		Decay to 14
+		Throw to 2
+		Count = 23
+	Inspect 234 -> + 8 = 242
+		Decay to 80
+		Throw to 2
+		Count = 24
+	Inspect 146 -> + 8 = 154
+		Decay to 51
+		Throw to 0
+		Count = 25
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 26
+	Inspect 77 -> + 8 = 85
+		Decay to 28
+		Throw to 2
+		Count = 27
+	Inspect 231 -> + 8 = 239
+		Decay to 79
+		Throw to 2
+		Count = 28
+	Inspect 120 -> + 8 = 128
+		Decay to 42
+		Throw to 2
+		Count = 29
+	Inspect 161 -> + 8 = 169
+		Decay to 56
+		Throw to 2
+		Count = 30
+	Inspect 243 -> + 8 = 251
+		Decay to 83
+		Throw to 2
+		Count = 31
+	Inspect 75 -> + 8 = 83
+		Decay to 27
+		Throw to 2
+		Count = 32
+Monkey 6: 10, 34, 32, 38, 38, 22, 308, 98, 3930, 46, 112, 98, 112, 366
+	Inspect 10 -> + 5 = 15
+		Decay to 5
+		Throw to 1
+		Count = 17
+	Inspect 34 -> + 5 = 39
+		Decay to 13
+		Throw to 1
+		Count = 18
+	Inspect 32 -> + 5 = 37
+		Decay to 12
+		Throw to 1
+		Count = 19
+	Inspect 38 -> + 5 = 43
+		Decay to 14
+		Throw to 1
+		Count = 20
+	Inspect 38 -> + 5 = 43
+		Decay to 14
+		Throw to 1
+		Count = 21
+	Inspect 22 -> + 5 = 27
+		Decay to 9
+		Throw to 1
+		Count = 22
+	Inspect 308 -> + 5 = 313
+		Decay to 104
+		Throw to 1
+		Count = 23
+	Inspect 98 -> + 5 = 103
+		Decay to 34
+		Throw to 1
+		Count = 24
+	Inspect 3930 -> + 5 = 3935
+		Decay to 1311
+		Throw to 7
+		Count = 25
+	Inspect 46 -> + 5 = 51
+		Decay to 17
+		Throw to 1
+		Count = 26
+	Inspect 112 -> + 5 = 117
+		Decay to 39
+		Throw to 1
+		Count = 27
+	Inspect 98 -> + 5 = 103
+		Decay to 34
+		Throw to 1
+		Count = 28
+	Inspect 112 -> + 5 = 117
+		Decay to 39
+		Throw to 1
+		Count = 29
+	Inspect 366 -> + 5 = 371
+		Decay to 123
+		Throw to 1
+		Count = 30
+Monkey 7: 1311
+	Inspect 1311 -> + 3 = 1314
+		Decay to 438
+		Throw to 3
+		Count = 8
+Monkey 0: 208, 533, 208, 68, 51
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 10
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 11
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 12
+	Inspect 68 -> * 17 = 1156
+		Decay to 385
+		Throw to 2
+		Count = 13
+	Inspect 51 -> * 17 = 867
+		Decay to 289
+		Throw to 2
+		Count = 14
+Monkey 1: 5, 13, 12, 14, 14, 9, 104, 34, 17, 39, 34, 39, 123
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 23
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 24
+	Inspect 12 -> * 11 = 132
+		Decay to 44
+		Throw to 5
+		Count = 25
+	Inspect 14 -> * 11 = 154
+		Decay to 51
+		Throw to 5
+		Count = 26
+	Inspect 14 -> * 11 = 154
+		Decay to 51
+		Throw to 5
+		Count = 27
+	Inspect 9 -> * 11 = 99
+		Decay to 33
+		Throw to 5
+		Count = 28
+	Inspect 104 -> * 11 = 1144
+		Decay to 381
+		Throw to 5
+		Count = 29
+	Inspect 34 -> * 11 = 374
+		Decay to 124
+		Throw to 5
+		Count = 30
+	Inspect 17 -> * 11 = 187
+		Decay to 62
+		Throw to 5
+		Count = 31
+	Inspect 39 -> * 11 = 429
+		Decay to 143
+		Throw to 5
+		Count = 32
+	Inspect 34 -> * 11 = 374
+		Decay to 124
+		Throw to 5
+		Count = 33
+	Inspect 39 -> * 11 = 429
+		Decay to 143
+		Throw to 5
+		Count = 34
+	Inspect 123 -> * 11 = 1353
+		Decay to 451
+		Throw to 5
+		Count = 35
+Monkey 2: 32, 28, 40, 33, 40, 18, 54, 18, 14, 80, 8, 28, 79, 42, 56, 83, 27, 1178, 3020, 1178, 385, 289
+	Inspect 32 -> + 4 = 36
+		Decay to 12
+		Throw to 6
+		Count = 21
+	Inspect 28 -> + 4 = 32
+		Decay to 10
+		Throw to 6
+		Count = 22
+	Inspect 40 -> + 4 = 44
+		Decay to 14
+		Throw to 6
+		Count = 23
+	Inspect 33 -> + 4 = 37
+		Decay to 12
+		Throw to 6
+		Count = 24
+	Inspect 40 -> + 4 = 44
+		Decay to 14
+		Throw to 6
+		Count = 25
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 26
+	Inspect 54 -> + 4 = 58
+		Decay to 19
+		Throw to 4
+		Count = 27
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 28
+	Inspect 14 -> + 4 = 18
+		Decay to 6
+		Throw to 6
+		Count = 29
+	Inspect 80 -> + 4 = 84
+		Decay to 28
+		Throw to 6
+		Count = 30
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 31
+	Inspect 28 -> + 4 = 32
+		Decay to 10
+		Throw to 6
+		Count = 32
+	Inspect 79 -> + 4 = 83
+		Decay to 27
+		Throw to 4
+		Count = 33
+	Inspect 42 -> + 4 = 46
+		Decay to 15
+		Throw to 4
+		Count = 34
+	Inspect 56 -> + 4 = 60
+		Decay to 20
+		Throw to 6
+		Count = 35
+	Inspect 83 -> + 4 = 87
+		Decay to 29
+		Throw to 4
+		Count = 36
+	Inspect 27 -> + 4 = 31
+		Decay to 10
+		Throw to 6
+		Count = 37
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 38
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 39
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 40
+	Inspect 385 -> + 4 = 389
+		Decay to 129
+		Throw to 4
+		Count = 41
+	Inspect 289 -> + 4 = 293
+		Decay to 97
+		Throw to 4
+		Count = 42
+Monkey 3: 438
+	Inspect 438 -> ^ 2 = 191844
+		Decay to 63948
+		Throw to 5
+		Count = 16
+Monkey 4: 7, 19, 7, 27, 15, 29, 129, 97
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 15
+	Inspect 19 -> + 7 = 26
+		Decay to 8
+		Throw to 6
+		Count = 16
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 17
+	Inspect 27 -> + 7 = 34
+		Decay to 11
+		Throw to 7
+		Count = 18
+	Inspect 15 -> + 7 = 22
+		Decay to 7
+		Throw to 6
+		Count = 19
+	Inspect 29 -> + 7 = 36
+		Decay to 12
+		Throw to 6
+		Count = 20
+	Inspect 129 -> + 7 = 136
+		Decay to 45
+		Throw to 6
+		Count = 21
+	Inspect 97 -> + 7 = 104
+		Decay to 34
+		Throw to 6
+		Count = 22
+Monkey 5: 18, 47, 44, 51, 51, 33, 381, 124, 62, 143, 124, 143, 451, 63948
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 33
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 34
+	Inspect 44 -> + 8 = 52
+		Decay to 17
+		Throw to 0
+		Count = 35
+	Inspect 51 -> + 8 = 59
+		Decay to 19
+		Throw to 2
+		Count = 36
+	Inspect 51 -> + 8 = 59
+		Decay to 19
+		Throw to 2
+		Count = 37
+	Inspect 33 -> + 8 = 41
+		Decay to 13
+		Throw to 2
+		Count = 38
+	Inspect 381 -> + 8 = 389
+		Decay to 129
+		Throw to 2
+		Count = 39
+	Inspect 124 -> + 8 = 132
+		Decay to 44
+		Throw to 2
+		Count = 40
+	Inspect 62 -> + 8 = 70
+		Decay to 23
+		Throw to 2
+		Count = 41
+	Inspect 143 -> + 8 = 151
+		Decay to 50
+		Throw to 2
+		Count = 42
+	Inspect 124 -> + 8 = 132
+		Decay to 44
+		Throw to 2
+		Count = 43
+	Inspect 143 -> + 8 = 151
+		Decay to 50
+		Throw to 2
+		Count = 44
+	Inspect 451 -> + 8 = 459
+		Decay to 153
+		Throw to 0
+		Count = 45
+	Inspect 63948 -> + 8 = 63956
+		Decay to 21318
+		Throw to 0
+		Count = 46
+Monkey 6: 12, 10, 14, 12, 14, 6, 28, 4, 10, 20, 10, 394, 1008, 394, 4, 8, 4, 7, 12, 45, 34
+	Inspect 12 -> + 5 = 17
+		Decay to 5
+		Throw to 1
+		Count = 31
+	Inspect 10 -> + 5 = 15
+		Decay to 5
+		Throw to 1
+		Count = 32
+	Inspect 14 -> + 5 = 19
+		Decay to 6
+		Throw to 1
+		Count = 33
+	Inspect 12 -> + 5 = 17
+		Decay to 5
+		Throw to 1
+		Count = 34
+	Inspect 14 -> + 5 = 19
+		Decay to 6
+		Throw to 1
+		Count = 35
+	Inspect 6 -> + 5 = 11
+		Decay to 3
+		Throw to 1
+		Count = 36
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 37
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 38
+	Inspect 10 -> + 5 = 15
+		Decay to 5
+		Throw to 1
+		Count = 39
+	Inspect 20 -> + 5 = 25
+		Decay to 8
+		Throw to 1
+		Count = 40
+	Inspect 10 -> + 5 = 15
+		Decay to 5
+		Throw to 1
+		Count = 41
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 42
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 43
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 44
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 45
+	Inspect 8 -> + 5 = 13
+		Decay to 4
+		Throw to 1
+		Count = 46
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 47
+	Inspect 7 -> + 5 = 12
+		Decay to 4
+		Throw to 1
+		Count = 48
+	Inspect 12 -> + 5 = 17
+		Decay to 5
+		Throw to 1
+		Count = 49
+	Inspect 45 -> + 5 = 50
+		Decay to 16
+		Throw to 1
+		Count = 50
+	Inspect 34 -> + 5 = 39
+		Decay to 13
+		Throw to 1
+		Count = 51
+Monkey 7: 11, 133, 133
+	Inspect 11 -> + 3 = 14
+		Decay to 4
+		Throw to 3
+		Count = 9
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 10
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 11
+Monkey 0: 17, 153, 21318
+	Inspect 17 -> * 17 = 289
+		Decay to 96
+		Throw to 4
+		Count = 15
+	Inspect 153 -> * 17 = 2601
+		Decay to 867
+		Throw to 4
+		Count = 16
+	Inspect 21318 -> * 17 = 362406
+		Decay to 120802
+		Throw to 2
+		Count = 17
+Monkey 1: 5, 5, 6, 5, 6, 3, 11, 3, 5, 8, 5, 337, 3, 4, 3, 4, 5, 16, 13
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 36
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 37
+	Inspect 6 -> * 11 = 66
+		Decay to 22
+		Throw to 5
+		Count = 38
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 39
+	Inspect 6 -> * 11 = 66
+		Decay to 22
+		Throw to 5
+		Count = 40
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 41
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 42
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 43
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 44
+	Inspect 8 -> * 11 = 88
+		Decay to 29
+		Throw to 5
+		Count = 45
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 46
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 47
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 48
+	Inspect 4 -> * 11 = 44
+		Decay to 14
+		Throw to 5
+		Count = 49
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 50
+	Inspect 4 -> * 11 = 44
+		Decay to 14
+		Throw to 5
+		Count = 51
+	Inspect 5 -> * 11 = 55
+		Decay to 18
+		Throw to 5
+		Count = 52
+	Inspect 16 -> * 11 = 176
+		Decay to 58
+		Throw to 5
+		Count = 53
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 54
+Monkey 2: 8, 18, 19, 19, 13, 129, 44, 23, 50, 44, 50, 120802
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 43
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 44
+	Inspect 19 -> + 4 = 23
+		Decay to 7
+		Throw to 4
+		Count = 45
+	Inspect 19 -> + 4 = 23
+		Decay to 7
+		Throw to 4
+		Count = 46
+	Inspect 13 -> + 4 = 17
+		Decay to 5
+		Throw to 4
+		Count = 47
+	Inspect 129 -> + 4 = 133
+		Decay to 44
+		Throw to 6
+		Count = 48
+	Inspect 44 -> + 4 = 48
+		Decay to 16
+		Throw to 6
+		Count = 49
+	Inspect 23 -> + 4 = 27
+		Decay to 9
+		Throw to 4
+		Count = 50
+	Inspect 50 -> + 4 = 54
+		Decay to 18
+		Throw to 6
+		Count = 51
+	Inspect 44 -> + 4 = 48
+		Decay to 16
+		Throw to 6
+		Count = 52
+	Inspect 50 -> + 4 = 54
+		Decay to 18
+		Throw to 6
+		Count = 53
+	Inspect 120802 -> + 4 = 120806
+		Decay to 40268
+		Throw to 6
+		Count = 54
+Monkey 3: 4, 45, 45, 40, 1235
+	Inspect 4 -> ^ 2 = 16
+		Decay to 5
+		Throw to 5
+		Count = 17
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 18
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 19
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 20
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 21
+Monkey 4: 96, 867, 7, 7, 7, 5, 9
+	Inspect 96 -> + 7 = 103
+		Decay to 34
+		Throw to 6
+		Count = 23
+	Inspect 867 -> + 7 = 874
+		Decay to 291
+		Throw to 6
+		Count = 24
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 25
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 26
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 27
+	Inspect 5 -> + 7 = 12
+		Decay to 4
+		Throw to 6
+		Count = 28
+	Inspect 9 -> + 7 = 16
+		Decay to 5
+		Throw to 6
+		Count = 29
+Monkey 5: 18, 18, 22, 18, 22, 11, 11, 18, 29, 18, 11, 14, 11, 14, 18, 58, 47, 5, 675, 675, 508408
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 47
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 48
+	Inspect 22 -> + 8 = 30
+		Decay to 10
+		Throw to 2
+		Count = 49
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 50
+	Inspect 22 -> + 8 = 30
+		Decay to 10
+		Throw to 2
+		Count = 51
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 52
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 53
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 54
+	Inspect 29 -> + 8 = 37
+		Decay to 12
+		Throw to 2
+		Count = 55
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 56
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 57
+	Inspect 14 -> + 8 = 22
+		Decay to 7
+		Throw to 2
+		Count = 58
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 59
+	Inspect 14 -> + 8 = 22
+		Decay to 7
+		Throw to 2
+		Count = 60
+	Inspect 18 -> + 8 = 26
+		Decay to 8
+		Throw to 2
+		Count = 61
+	Inspect 58 -> + 8 = 66
+		Decay to 22
+		Throw to 2
+		Count = 62
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 63
+	Inspect 5 -> + 8 = 13
+		Decay to 4
+		Throw to 2
+		Count = 64
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 65
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 66
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 67
+Monkey 6: 4, 44, 16, 18, 16, 18, 40268, 34, 291, 4, 4, 4, 4, 5
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 52
+	Inspect 44 -> + 5 = 49
+		Decay to 16
+		Throw to 1
+		Count = 53
+	Inspect 16 -> + 5 = 21
+		Decay to 7
+		Throw to 1
+		Count = 54
+	Inspect 18 -> + 5 = 23
+		Decay to 7
+		Throw to 1
+		Count = 55
+	Inspect 16 -> + 5 = 21
+		Decay to 7
+		Throw to 1
+		Count = 56
+	Inspect 18 -> + 5 = 23
+		Decay to 7
+		Throw to 1
+		Count = 57
+	Inspect 40268 -> + 5 = 40273
+		Decay to 13424
+		Throw to 1
+		Count = 58
+	Inspect 34 -> + 5 = 39
+		Decay to 13
+		Throw to 1
+		Count = 59
+	Inspect 291 -> + 5 = 296
+		Decay to 98
+		Throw to 1
+		Count = 60
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 61
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 62
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 63
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 64
+	Inspect 5 -> + 5 = 10
+		Decay to 3
+		Throw to 1
+		Count = 65
+Monkey 7: 
+Monkey 0: 533
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 18
+Monkey 1: 3, 16, 7, 7, 7, 7, 13424, 13, 98, 3, 3, 3, 3, 3
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 55
+	Inspect 16 -> * 11 = 176
+		Decay to 58
+		Throw to 5
+		Count = 56
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 57
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 58
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 59
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 60
+	Inspect 13424 -> * 11 = 147664
+		Decay to 49221
+		Throw to 5
+		Count = 61
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 62
+	Inspect 98 -> * 11 = 1078
+		Decay to 359
+		Throw to 5
+		Count = 63
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 64
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 65
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 66
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 67
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 68
+Monkey 2: 8, 8, 10, 8, 10, 6, 6, 8, 12, 8, 6, 7, 6, 7, 8, 22, 18, 4, 227, 227, 169472, 3020
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 55
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 56
+	Inspect 10 -> + 4 = 14
+		Decay to 4
+		Throw to 6
+		Count = 57
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 58
+	Inspect 10 -> + 4 = 14
+		Decay to 4
+		Throw to 6
+		Count = 59
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 60
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 61
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 62
+	Inspect 12 -> + 4 = 16
+		Decay to 5
+		Throw to 4
+		Count = 63
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 64
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 65
+	Inspect 7 -> + 4 = 11
+		Decay to 3
+		Throw to 4
+		Count = 66
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 67
+	Inspect 7 -> + 4 = 11
+		Decay to 3
+		Throw to 4
+		Count = 68
+	Inspect 8 -> + 4 = 12
+		Decay to 4
+		Throw to 6
+		Count = 69
+	Inspect 22 -> + 4 = 26
+		Decay to 8
+		Throw to 6
+		Count = 70
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 71
+	Inspect 4 -> + 4 = 8
+		Decay to 2
+		Throw to 6
+		Count = 72
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 73
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 74
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 75
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 76
+Monkey 3: 25, 25, 25, 25
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 22
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 23
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 24
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 25
+Monkey 4: 3, 3, 5, 3, 3, 3, 3, 7, 77, 77
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 30
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 31
+	Inspect 5 -> + 7 = 12
+		Decay to 4
+		Throw to 6
+		Count = 32
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 33
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 34
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 35
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 36
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 37
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 38
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 39
+Monkey 5: 11, 58, 49221, 47, 359, 11, 11, 11, 11, 11
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 68
+	Inspect 58 -> + 8 = 66
+		Decay to 22
+		Throw to 2
+		Count = 69
+	Inspect 49221 -> + 8 = 49229
+		Decay to 16409
+		Throw to 2
+		Count = 70
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 71
+	Inspect 359 -> + 8 = 367
+		Decay to 122
+		Throw to 2
+		Count = 72
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 73
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 74
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 75
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 76
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 77
+Monkey 6: 4, 4, 4, 4, 4, 4, 4, 4, 8, 2, 56492, 1008, 3, 3, 4, 3, 3, 3, 3, 4, 28, 28
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 66
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 67
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 68
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 69
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 70
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 71
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 72
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 73
+	Inspect 8 -> + 5 = 13
+		Decay to 4
+		Throw to 1
+		Count = 74
+	Inspect 2 -> + 5 = 7
+		Decay to 2
+		Throw to 1
+		Count = 75
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 76
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 77
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 78
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 79
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 80
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 81
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 82
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 83
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 84
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 85
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 86
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 87
+Monkey 7: 
+Monkey 0: 208, 208, 208, 208
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 19
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 20
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 21
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 22
+Monkey 1: 3, 3, 3, 3, 3, 3, 3, 3, 4, 2, 18832, 337, 2, 2, 3, 2, 2, 2, 2, 3, 11, 11
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 69
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 70
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 71
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 72
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 73
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 74
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 75
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 76
+	Inspect 4 -> * 11 = 44
+		Decay to 14
+		Throw to 5
+		Count = 77
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 78
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 79
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 80
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 81
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 82
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 83
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 84
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 85
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 86
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 87
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 88
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 89
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 90
+Monkey 2: 6, 22, 16409, 18, 122, 6, 6, 6, 6, 6, 1178, 1178, 1178, 1178
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 77
+	Inspect 22 -> + 4 = 26
+		Decay to 8
+		Throw to 6
+		Count = 78
+	Inspect 16409 -> + 4 = 16413
+		Decay to 5471
+		Throw to 4
+		Count = 79
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 80
+	Inspect 122 -> + 4 = 126
+		Decay to 42
+		Throw to 6
+		Count = 81
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 82
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 83
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 84
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 85
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 86
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 87
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 88
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 89
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 90
+Monkey 3: 69050, 1235, 40, 40
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 26
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 27
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 28
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 29
+Monkey 4: 3, 5471, 7, 3, 3, 3, 3, 3
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 40
+	Inspect 5471 -> + 7 = 5478
+		Decay to 1826
+		Throw to 7
+		Count = 41
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 42
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 43
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 44
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 45
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 46
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 47
+Monkey 5: 11, 11, 11, 11, 11, 11, 11, 11, 14, 7, 7, 7, 11, 7, 7, 7, 7, 11, 157645068, 508408
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 78
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 79
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 80
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 81
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 82
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 83
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 84
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 85
+	Inspect 14 -> + 8 = 22
+		Decay to 7
+		Throw to 2
+		Count = 86
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 87
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 88
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 89
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 90
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 91
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 92
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 93
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 94
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 95
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 96
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 97
+Monkey 6: 8, 42, 394, 394, 394, 394, 3, 4, 3, 3, 3, 3, 3
+	Inspect 8 -> + 5 = 13
+		Decay to 4
+		Throw to 1
+		Count = 88
+	Inspect 42 -> + 5 = 47
+		Decay to 15
+		Throw to 1
+		Count = 89
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 90
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 91
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 92
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 93
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 94
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 95
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 96
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 97
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 98
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 99
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 100
+Monkey 7: 1826, 133, 133, 133, 133
+	Inspect 1826 -> + 3 = 1829
+		Decay to 609
+		Throw to 1
+		Count = 12
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 13
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 14
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 15
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 16
+Monkey 0: 533, 533
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 23
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 24
+Monkey 1: 4, 15, 2, 3, 2, 2, 2, 2, 2, 609
+	Inspect 4 -> * 11 = 44
+		Decay to 14
+		Throw to 5
+		Count = 91
+	Inspect 15 -> * 11 = 165
+		Decay to 55
+		Throw to 3
+		Count = 92
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 93
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 94
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 95
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 96
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 97
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 98
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 99
+	Inspect 609 -> * 11 = 6699
+		Decay to 2233
+		Throw to 5
+		Count = 100
+Monkey 2: 6, 6, 6, 6, 6, 6, 6, 6, 7, 5, 5, 5, 6, 5, 5, 5, 5, 6, 52548358, 169472, 3020, 3020
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 91
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 92
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 93
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 94
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 95
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 96
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 97
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 98
+	Inspect 7 -> + 4 = 11
+		Decay to 3
+		Throw to 4
+		Count = 99
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 100
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 101
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 102
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 103
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 104
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 105
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 106
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 107
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 108
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 109
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 110
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 111
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 112
+Monkey 3: 45, 45, 45, 45, 55
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 30
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 31
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 32
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 33
+	Inspect 55 -> ^ 2 = 3025
+		Decay to 1008
+		Throw to 5
+		Count = 34
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 48
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 49
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 50
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 51
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 52
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 53
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 54
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 55
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 56
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 57
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 58
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 59
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 60
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 61
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 62
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 63
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 64
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 65
+Monkey 5: 14, 7, 11, 7, 7, 7, 7, 7, 2233, 675, 675, 675, 675, 1008
+	Inspect 14 -> + 8 = 22
+		Decay to 7
+		Throw to 2
+		Count = 98
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 99
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 100
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 101
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 102
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 103
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 104
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 105
+	Inspect 2233 -> + 8 = 2241
+		Decay to 747
+		Throw to 2
+		Count = 106
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 107
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 108
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 109
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 110
+	Inspect 1008 -> + 8 = 1016
+		Decay to 338
+		Throw to 2
+		Count = 111
+Monkey 6: 17516120, 56492, 1008, 1008, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 101
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 102
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 103
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 104
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 105
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 106
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 107
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 108
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 109
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 110
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 111
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 112
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 113
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 114
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 115
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 116
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 117
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 118
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 119
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 120
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 121
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 122
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 5838708, 18832, 337, 337, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 101
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 102
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 103
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 104
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 105
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 106
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 107
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 108
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 109
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 110
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 111
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 112
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 113
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 114
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 115
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 116
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 117
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 118
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 119
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 120
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 121
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 122
+Monkey 2: 7, 5, 6, 5, 5, 5, 5, 5, 747, 227, 227, 227, 227, 338
+	Inspect 7 -> + 4 = 11
+		Decay to 3
+		Throw to 4
+		Count = 113
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 114
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 115
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 116
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 117
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 118
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 119
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 120
+	Inspect 747 -> + 4 = 751
+		Decay to 250
+		Throw to 6
+		Count = 121
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 122
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 123
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 124
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 125
+	Inspect 338 -> + 4 = 342
+		Decay to 114
+		Throw to 6
+		Count = 126
+Monkey 3: 69050, 1235, 1235
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 35
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 36
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 37
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 77, 77, 77, 77
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 66
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 67
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 68
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 69
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 70
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 71
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 72
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 73
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 74
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 75
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 76
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 77
+Monkey 5: 21408596, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 157645068, 508408, 508408
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 112
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 113
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 114
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 115
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 116
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 117
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 118
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 119
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 120
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 121
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 122
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 123
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 124
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 125
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 126
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 127
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 128
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 129
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 130
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 131
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 132
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 133
+Monkey 6: 250, 114, 3, 3, 3, 3, 3, 3, 3, 3, 28, 28, 28, 28
+	Inspect 250 -> + 5 = 255
+		Decay to 85
+		Throw to 1
+		Count = 123
+	Inspect 114 -> + 5 = 119
+		Decay to 39
+		Throw to 1
+		Count = 124
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 125
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 126
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 127
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 128
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 129
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 130
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 131
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 132
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 133
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 134
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 135
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 136
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 85, 39, 2, 2, 2, 2, 2, 2, 2, 2, 11, 11, 11, 11
+	Inspect 85 -> * 11 = 935
+		Decay to 311
+		Throw to 5
+		Count = 123
+	Inspect 39 -> * 11 = 429
+		Decay to 143
+		Throw to 5
+		Count = 124
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 125
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 126
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 127
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 128
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 129
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 130
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 131
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 132
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 133
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 134
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 135
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 136
+Monkey 2: 7136201, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 52548358, 169472, 169472
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 127
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 128
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 129
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 130
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 131
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 132
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 133
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 134
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 135
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 136
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 137
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 138
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 139
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 140
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 141
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 142
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 143
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 144
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 145
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 146
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 147
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 148
+Monkey 3: 40, 40, 40, 40
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 38
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 39
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 40
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 41
+Monkey 4: 2378735, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 78
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 79
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 80
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 81
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 82
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 83
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 84
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 85
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 86
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 87
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 88
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 89
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 90
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 91
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 92
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 93
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 94
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 95
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 96
+Monkey 5: 311, 143, 7, 7, 7, 7, 7, 7, 7, 7
+	Inspect 311 -> + 8 = 319
+		Decay to 106
+		Throw to 2
+		Count = 134
+	Inspect 143 -> + 8 = 151
+		Decay to 50
+		Throw to 2
+		Count = 135
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 136
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 137
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 138
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 139
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 140
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 141
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 142
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 143
+Monkey 6: 17516120, 56492, 56492, 792914, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 137
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 138
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 139
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 140
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 141
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 142
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 143
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 144
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 145
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 146
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 147
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 148
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 149
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 150
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 151
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 152
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 153
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 154
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 155
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 156
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 157
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 158
+Monkey 7: 
+Monkey 0: 533, 533, 533, 533
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 25
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 26
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 27
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 28
+Monkey 1: 5838708, 18832, 18832, 264306, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 137
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 138
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 139
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 140
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 141
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 142
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 143
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 144
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 145
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 146
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 147
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 148
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 149
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 150
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 151
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 152
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 153
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 154
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 155
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 156
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 157
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 158
+Monkey 2: 106, 50, 5, 5, 5, 5, 5, 5, 5, 5, 3020, 3020, 3020, 3020
+	Inspect 106 -> + 4 = 110
+		Decay to 36
+		Throw to 6
+		Count = 149
+	Inspect 50 -> + 4 = 54
+		Decay to 18
+		Throw to 6
+		Count = 150
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 151
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 152
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 153
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 154
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 155
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 156
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 157
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 158
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 159
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 160
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 161
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 162
+Monkey 3: 69050, 69050
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 42
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 43
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 97
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 98
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 99
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 100
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 101
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 102
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 103
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 104
+Monkey 5: 21408596, 969122, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 157645068, 157645068
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 144
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 145
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 146
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 147
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 148
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 149
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 150
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 151
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 152
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 153
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 154
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 155
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 156
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 157
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 158
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 159
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 160
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 161
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 162
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 163
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 164
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 165
+Monkey 6: 36, 18, 1008, 1008, 1008, 1008, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 36 -> + 5 = 41
+		Decay to 13
+		Throw to 1
+		Count = 159
+	Inspect 18 -> + 5 = 23
+		Decay to 7
+		Throw to 1
+		Count = 160
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 161
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 162
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 163
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 164
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 165
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 166
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 167
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 168
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 169
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 170
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 171
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 172
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 13, 7, 337, 337, 337, 337, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 13 -> * 11 = 143
+		Decay to 47
+		Throw to 5
+		Count = 159
+	Inspect 7 -> * 11 = 77
+		Decay to 25
+		Throw to 3
+		Count = 160
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 161
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 162
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 163
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 164
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 165
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 166
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 167
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 168
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 169
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 170
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 171
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 172
+Monkey 2: 7136201, 323043, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 52548358, 52548358
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 163
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 164
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 165
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 166
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 167
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 168
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 169
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 170
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 171
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 172
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 173
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 174
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 175
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 176
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 177
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 178
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 179
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 180
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 181
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 182
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 183
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 184
+Monkey 3: 25, 1235, 1235, 1235, 1235
+	Inspect 25 -> ^ 2 = 625
+		Decay to 208
+		Throw to 0
+		Count = 44
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 45
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 46
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 47
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 48
+Monkey 4: 2378735, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 105
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 106
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 107
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 108
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 109
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 110
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 111
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 112
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 113
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 114
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 115
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 116
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 117
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 118
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 119
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 120
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 121
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 122
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 123
+Monkey 5: 47, 7, 7, 7, 7, 7, 7, 7, 7, 508408, 508408, 508408, 508408
+	Inspect 47 -> + 8 = 55
+		Decay to 18
+		Throw to 2
+		Count = 166
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 167
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 168
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 169
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 170
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 171
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 172
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 173
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 174
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 175
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 176
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 177
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 178
+Monkey 6: 107682, 17516120, 17516120, 792914, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 173
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 174
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 175
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 176
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 177
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 178
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 179
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 180
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 181
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 182
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 183
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 184
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 185
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 186
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 187
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 188
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 189
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 190
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 191
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 192
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 193
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 194
+Monkey 7: 
+Monkey 0: 208
+	Inspect 208 -> * 17 = 3536
+		Decay to 1178
+		Throw to 2
+		Count = 29
+Monkey 1: 35895, 5838708, 5838708, 264306, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 173
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 174
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 175
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 176
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 177
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 178
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 179
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 180
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 181
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 182
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 183
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 184
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 185
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 186
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 187
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 188
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 189
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 190
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 191
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 192
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 193
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 194
+Monkey 2: 18, 5, 5, 5, 5, 5, 5, 5, 5, 169472, 169472, 169472, 169472, 1178
+	Inspect 18 -> + 4 = 22
+		Decay to 7
+		Throw to 4
+		Count = 185
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 186
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 187
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 188
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 189
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 190
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 191
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 192
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 193
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 194
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 195
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 196
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 197
+	Inspect 1178 -> + 4 = 1182
+		Decay to 394
+		Throw to 6
+		Count = 198
+Monkey 3: 131615
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 49
+Monkey 4: 7, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 7 -> + 7 = 14
+		Decay to 4
+		Throw to 6
+		Count = 124
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 125
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 126
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 127
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 128
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 129
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 130
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 131
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 132
+Monkey 5: 21408596, 21408596, 969122, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 47546347
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 179
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 180
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 181
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 182
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 183
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 184
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 185
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 186
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 187
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 188
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 189
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 190
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 191
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 192
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 193
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 194
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 195
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 196
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 197
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 198
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 199
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 200
+Monkey 6: 56492, 56492, 56492, 56492, 394, 4, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 195
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 196
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 197
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 198
+	Inspect 394 -> + 5 = 399
+		Decay to 133
+		Throw to 7
+		Count = 199
+	Inspect 4 -> + 5 = 9
+		Decay to 3
+		Throw to 1
+		Count = 200
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 201
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 202
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 203
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 204
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 205
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 206
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 207
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 208
+Monkey 7: 133
+	Inspect 133 -> + 3 = 136
+		Decay to 45
+		Throw to 3
+		Count = 17
+Monkey 0: 
+Monkey 1: 18832, 18832, 18832, 18832, 3, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 195
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 196
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 197
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 198
+	Inspect 3 -> * 11 = 33
+		Decay to 11
+		Throw to 5
+		Count = 199
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 200
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 201
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 202
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 203
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 204
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 205
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 206
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 207
+Monkey 2: 7136201, 7136201, 323043, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 15848785
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 199
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 200
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 201
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 202
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 203
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 204
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 205
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 206
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 207
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 208
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 209
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 210
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 211
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 212
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 213
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 214
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 215
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 216
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 217
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 218
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 219
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 220
+Monkey 3: 45, 69050, 69050, 69050, 69050
+	Inspect 45 -> ^ 2 = 2025
+		Decay to 675
+		Throw to 5
+		Count = 50
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 51
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 52
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 53
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 54
+Monkey 4: 2378735, 2378735, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5282929
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 133
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 134
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 135
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 136
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 137
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 138
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 139
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 140
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 141
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 142
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 143
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 144
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 145
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 146
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 147
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 148
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 149
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 150
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 151
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 152
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 153
+Monkey 5: 11, 7, 7, 7, 7, 7, 7, 7, 7, 675, 157645068, 157645068, 157645068, 157645068
+	Inspect 11 -> + 8 = 19
+		Decay to 6
+		Throw to 2
+		Count = 201
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 202
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 203
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 204
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 205
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 206
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 207
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 208
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 209
+	Inspect 675 -> + 8 = 683
+		Decay to 227
+		Throw to 2
+		Count = 210
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 211
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 212
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 213
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 214
+Monkey 6: 107682, 792914, 792914, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 1760978
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 209
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 210
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 211
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 212
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 213
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 214
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 215
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 216
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 217
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 218
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 219
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 220
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 221
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 222
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 223
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 224
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 225
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 226
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 227
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 228
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 229
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 230
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 35895, 264306, 264306, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 586994
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 208
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 209
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 210
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 211
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 212
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 213
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 214
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 215
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 216
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 217
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 218
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 219
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 220
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 221
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 222
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 223
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 224
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 225
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 226
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 227
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 228
+	Inspect 586994 -> * 11 = 6456934
+		Decay to 2152311
+		Throw to 5
+		Count = 229
+Monkey 2: 6, 5, 5, 5, 5, 5, 5, 5, 5, 227, 52548358, 52548358, 52548358, 52548358
+	Inspect 6 -> + 4 = 10
+		Decay to 3
+		Throw to 4
+		Count = 221
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 222
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 223
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 224
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 225
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 226
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 227
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 228
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 229
+	Inspect 227 -> + 4 = 231
+		Decay to 77
+		Throw to 4
+		Count = 230
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 231
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 232
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 233
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 234
+Monkey 3: 131615
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 55
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 77
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 154
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 155
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 156
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 157
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 158
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 159
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 160
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 161
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 162
+	Inspect 77 -> + 7 = 84
+		Decay to 28
+		Throw to 6
+		Count = 163
+Monkey 5: 969122, 969122, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2152311, 47546347
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 215
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 216
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 217
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 218
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 219
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 220
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 221
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 222
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 223
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 224
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 225
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 226
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 227
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 228
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 229
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 230
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 231
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 232
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 233
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 234
+	Inspect 2152311 -> + 8 = 2152319
+		Decay to 717439
+		Throw to 2
+		Count = 235
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 236
+Monkey 6: 17516120, 17516120, 17516120, 17516120, 3, 3, 3, 3, 3, 3, 3, 3, 3, 28
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 231
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 232
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 233
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 234
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 235
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 236
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 237
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 238
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 239
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 240
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 241
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 242
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 243
+	Inspect 28 -> + 5 = 33
+		Decay to 11
+		Throw to 1
+		Count = 244
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 5838708, 5838708, 5838708, 5838708, 2, 2, 2, 2, 2, 2, 2, 2, 2, 11
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 230
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 231
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 232
+	Inspect 5838708 -> * 11 = 64225788
+		Decay to 21408596
+		Throw to 5
+		Count = 233
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 234
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 235
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 236
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 237
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 238
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 239
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 240
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 241
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 242
+	Inspect 11 -> * 11 = 121
+		Decay to 40
+		Throw to 3
+		Count = 243
+Monkey 2: 323043, 323043, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 717439, 15848785
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 235
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 236
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 237
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 238
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 239
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 240
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 241
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 242
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 243
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 244
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 245
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 246
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 247
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 248
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 249
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 250
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 251
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 252
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 253
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 254
+	Inspect 717439 -> + 4 = 717443
+		Decay to 239147
+		Throw to 4
+		Count = 255
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 256
+Monkey 3: 40
+	Inspect 40 -> ^ 2 = 1600
+		Decay to 533
+		Throw to 0
+		Count = 56
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 239147, 5282929
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 164
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 165
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 166
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 167
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 168
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 169
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 170
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 171
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 172
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 173
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 174
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 175
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 176
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 177
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 178
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 179
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 180
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 181
+	Inspect 239147 -> + 7 = 239154
+		Decay to 79718
+		Throw to 6
+		Count = 182
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 183
+Monkey 5: 21408596, 21408596, 21408596, 21408596, 7, 7, 7, 7, 7, 7, 7, 7, 7
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 237
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 238
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 239
+	Inspect 21408596 -> + 8 = 21408604
+		Decay to 7136201
+		Throw to 2
+		Count = 240
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 241
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 242
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 243
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 244
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 245
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 246
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 247
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 248
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 249
+Monkey 6: 107682, 107682, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 79718, 1760978
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 245
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 246
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 247
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 248
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 249
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 250
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 251
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 252
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 253
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 254
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 255
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 256
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 257
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 258
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 259
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 260
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 261
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 262
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 263
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 264
+	Inspect 79718 -> + 5 = 79723
+		Decay to 26574
+		Throw to 1
+		Count = 265
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 266
+Monkey 7: 
+Monkey 0: 533
+	Inspect 533 -> * 17 = 9061
+		Decay to 3020
+		Throw to 2
+		Count = 30
+Monkey 1: 35895, 35895, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 26574, 586994
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 244
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 245
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 246
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 247
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 248
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 249
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 250
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 251
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 252
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 253
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 254
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 255
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 256
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 257
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 258
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 259
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 260
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 261
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 262
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 263
+	Inspect 26574 -> * 11 = 292314
+		Decay to 97438
+		Throw to 5
+		Count = 264
+	Inspect 586994 -> * 11 = 6456934
+		Decay to 2152311
+		Throw to 5
+		Count = 265
+Monkey 2: 7136201, 7136201, 7136201, 7136201, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3020
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 257
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 258
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 259
+	Inspect 7136201 -> + 4 = 7136205
+		Decay to 2378735
+		Throw to 4
+		Count = 260
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 261
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 262
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 263
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 264
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 265
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 266
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 267
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 268
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 269
+	Inspect 3020 -> + 4 = 3024
+		Decay to 1008
+		Throw to 6
+		Count = 270
+Monkey 3: 131615, 131615
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 57
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 58
+Monkey 4: 2378735, 2378735, 2378735, 2378735, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 184
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 185
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 186
+	Inspect 2378735 -> + 7 = 2378742
+		Decay to 792914
+		Throw to 6
+		Count = 187
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 188
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 189
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 190
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 191
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 192
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 193
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 194
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 195
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 196
+Monkey 5: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 97438, 2152311, 47546347, 47546347
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 250
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 251
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 252
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 253
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 254
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 255
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 256
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 257
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 258
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 259
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 260
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 261
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 262
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 263
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 264
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 265
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 266
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 267
+	Inspect 97438 -> + 8 = 97446
+		Decay to 32482
+		Throw to 2
+		Count = 268
+	Inspect 2152311 -> + 8 = 2152319
+		Decay to 717439
+		Throw to 2
+		Count = 269
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 270
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 271
+Monkey 6: 1008, 792914, 792914, 792914, 792914, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 1008 -> + 5 = 1013
+		Decay to 337
+		Throw to 1
+		Count = 267
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 268
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 269
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 270
+	Inspect 792914 -> + 5 = 792919
+		Decay to 264306
+		Throw to 1
+		Count = 271
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 272
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 273
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 274
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 275
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 276
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 277
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 278
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 279
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 280
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 337, 264306, 264306, 264306, 264306, 2, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 337 -> * 11 = 3707
+		Decay to 1235
+		Throw to 3
+		Count = 266
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 267
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 268
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 269
+	Inspect 264306 -> * 11 = 2907366
+		Decay to 969122
+		Throw to 5
+		Count = 270
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 271
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 272
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 273
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 274
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 275
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 276
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 277
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 278
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 279
+Monkey 2: 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 32482, 717439, 15848785, 15848785
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 271
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 272
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 273
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 274
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 275
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 276
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 277
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 278
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 279
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 280
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 281
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 282
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 283
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 284
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 285
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 286
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 287
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 288
+	Inspect 32482 -> + 4 = 32486
+		Decay to 10828
+		Throw to 6
+		Count = 289
+	Inspect 717439 -> + 4 = 717443
+		Decay to 239147
+		Throw to 4
+		Count = 290
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 291
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 292
+Monkey 3: 1235
+	Inspect 1235 -> ^ 2 = 1525225
+		Decay to 508408
+		Throw to 5
+		Count = 59
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 239147, 5282929, 5282929
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 197
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 198
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 199
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 200
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 201
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 202
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 203
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 204
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 205
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 206
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 207
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 208
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 209
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 210
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 211
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 212
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 213
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 214
+	Inspect 239147 -> + 7 = 239154
+		Decay to 79718
+		Throw to 6
+		Count = 215
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 216
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 217
+Monkey 5: 969122, 969122, 969122, 969122, 7, 7, 7, 7, 7, 7, 7, 7, 7, 508408
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 272
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 273
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 274
+	Inspect 969122 -> + 8 = 969130
+		Decay to 323043
+		Throw to 2
+		Count = 275
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 276
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 277
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 278
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 279
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 280
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 281
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 282
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 283
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 284
+	Inspect 508408 -> + 8 = 508416
+		Decay to 169472
+		Throw to 2
+		Count = 285
+Monkey 6: 10828, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 79718, 1760978, 1760978
+	Inspect 10828 -> + 5 = 10833
+		Decay to 3611
+		Throw to 1
+		Count = 281
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 282
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 283
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 284
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 285
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 286
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 287
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 288
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 289
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 290
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 291
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 292
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 293
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 294
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 295
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 296
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 297
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 298
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 299
+	Inspect 79718 -> + 5 = 79723
+		Decay to 26574
+		Throw to 1
+		Count = 300
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 301
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 302
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 3611, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 26574, 586994, 586994
+	Inspect 3611 -> * 11 = 39721
+		Decay to 13240
+		Throw to 3
+		Count = 280
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 281
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 282
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 283
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 284
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 285
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 286
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 287
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 288
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 289
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 290
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 291
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 292
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 293
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 294
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 295
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 296
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 297
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 298
+	Inspect 26574 -> * 11 = 292314
+		Decay to 97438
+		Throw to 5
+		Count = 299
+	Inspect 586994 -> * 11 = 6456934
+		Decay to 2152311
+		Throw to 5
+		Count = 300
+	Inspect 586994 -> * 11 = 6456934
+		Decay to 2152311
+		Throw to 5
+		Count = 301
+Monkey 2: 323043, 323043, 323043, 323043, 5, 5, 5, 5, 5, 5, 5, 5, 5, 169472
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 293
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 294
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 295
+	Inspect 323043 -> + 4 = 323047
+		Decay to 107682
+		Throw to 6
+		Count = 296
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 297
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 298
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 299
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 300
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 301
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 302
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 303
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 304
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 305
+	Inspect 169472 -> + 4 = 169476
+		Decay to 56492
+		Throw to 6
+		Count = 306
+Monkey 3: 13240
+	Inspect 13240 -> ^ 2 = 175297600
+		Decay to 58432533
+		Throw to 5
+		Count = 60
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 218
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 219
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 220
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 221
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 222
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 223
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 224
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 225
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 226
+Monkey 5: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 97438, 2152311, 2152311, 58432533
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 286
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 287
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 288
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 289
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 290
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 291
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 292
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 293
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 294
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 295
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 296
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 297
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 298
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 299
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 300
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 301
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 302
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 303
+	Inspect 97438 -> + 8 = 97446
+		Decay to 32482
+		Throw to 2
+		Count = 304
+	Inspect 2152311 -> + 8 = 2152319
+		Decay to 717439
+		Throw to 2
+		Count = 305
+	Inspect 2152311 -> + 8 = 2152319
+		Decay to 717439
+		Throw to 2
+		Count = 306
+	Inspect 58432533 -> + 8 = 58432541
+		Decay to 19477513
+		Throw to 2
+		Count = 307
+Monkey 6: 107682, 107682, 107682, 107682, 56492, 3, 3, 3, 3, 3, 3, 3, 3, 3
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 303
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 304
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 305
+	Inspect 107682 -> + 5 = 107687
+		Decay to 35895
+		Throw to 1
+		Count = 306
+	Inspect 56492 -> + 5 = 56497
+		Decay to 18832
+		Throw to 1
+		Count = 307
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 308
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 309
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 310
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 311
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 312
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 313
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 314
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 315
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 316
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 35895, 35895, 35895, 35895, 18832, 2, 2, 2, 2, 2, 2, 2, 2, 2
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 302
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 303
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 304
+	Inspect 35895 -> * 11 = 394845
+		Decay to 131615
+		Throw to 3
+		Count = 305
+	Inspect 18832 -> * 11 = 207152
+		Decay to 69050
+		Throw to 3
+		Count = 306
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 307
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 308
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 309
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 310
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 311
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 312
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 313
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 314
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 315
+Monkey 2: 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 32482, 717439, 717439, 19477513
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 307
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 308
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 309
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 310
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 311
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 312
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 313
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 314
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 315
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 316
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 317
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 318
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 319
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 320
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 321
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 322
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 323
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 324
+	Inspect 32482 -> + 4 = 32486
+		Decay to 10828
+		Throw to 6
+		Count = 325
+	Inspect 717439 -> + 4 = 717443
+		Decay to 239147
+		Throw to 4
+		Count = 326
+	Inspect 717439 -> + 4 = 717443
+		Decay to 239147
+		Throw to 4
+		Count = 327
+	Inspect 19477513 -> + 4 = 19477517
+		Decay to 6492505
+		Throw to 4
+		Count = 328
+Monkey 3: 131615, 131615, 131615, 131615, 69050
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 61
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 62
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 63
+	Inspect 131615 -> ^ 2 = 142639041
+		Decay to 47546347
+		Throw to 5
+		Count = 64
+	Inspect 69050 -> ^ 2 = 472935204
+		Decay to 157645068
+		Throw to 5
+		Count = 65
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 239147, 239147, 6492505
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 227
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 228
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 229
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 230
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 231
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 232
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 233
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 234
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 235
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 236
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 237
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 238
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 239
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 240
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 241
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 242
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 243
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 244
+	Inspect 239147 -> + 7 = 239154
+		Decay to 79718
+		Throw to 6
+		Count = 245
+	Inspect 239147 -> + 7 = 239154
+		Decay to 79718
+		Throw to 6
+		Count = 246
+	Inspect 6492505 -> + 7 = 6492512
+		Decay to 2164170
+		Throw to 6
+		Count = 247
+Monkey 5: 7, 7, 7, 7, 7, 7, 7, 7, 7, 47546347, 47546347, 47546347, 47546347, 157645068
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 308
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 309
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 310
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 311
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 312
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 313
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 314
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 315
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 316
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 317
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 318
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 319
+	Inspect 47546347 -> + 8 = 47546355
+		Decay to 15848785
+		Throw to 2
+		Count = 320
+	Inspect 157645068 -> + 8 = 157645076
+		Decay to 52548358
+		Throw to 2
+		Count = 321
+Monkey 6: 10828, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 79718, 79718, 2164170
+	Inspect 10828 -> + 5 = 10833
+		Decay to 3611
+		Throw to 1
+		Count = 317
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 318
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 319
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 320
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 321
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 322
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 323
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 324
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 325
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 326
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 327
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 328
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 329
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 330
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 331
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 332
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 333
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 334
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 335
+	Inspect 79718 -> + 5 = 79723
+		Decay to 26574
+		Throw to 1
+		Count = 336
+	Inspect 79718 -> + 5 = 79723
+		Decay to 26574
+		Throw to 1
+		Count = 337
+	Inspect 2164170 -> + 5 = 2164175
+		Decay to 721391
+		Throw to 1
+		Count = 338
+Monkey 7: 
+Monkey 0: 
+Monkey 1: 3611, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 26574, 26574, 721391
+	Inspect 3611 -> * 11 = 39721
+		Decay to 13240
+		Throw to 3
+		Count = 316
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 317
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 318
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 319
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 320
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 321
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 322
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 323
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 324
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 325
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 326
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 327
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 328
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 329
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 330
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 331
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 332
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 333
+	Inspect 2 -> * 11 = 22
+		Decay to 7
+		Throw to 5
+		Count = 334
+	Inspect 26574 -> * 11 = 292314
+		Decay to 97438
+		Throw to 5
+		Count = 335
+	Inspect 26574 -> * 11 = 292314
+		Decay to 97438
+		Throw to 5
+		Count = 336
+	Inspect 721391 -> * 11 = 7935301
+		Decay to 2645100
+		Throw to 3
+		Count = 337
+Monkey 2: 5, 5, 5, 5, 5, 5, 5, 5, 5, 15848785, 15848785, 15848785, 15848785, 52548358
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 329
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 330
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 331
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 332
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 333
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 334
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 335
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 336
+	Inspect 5 -> + 4 = 9
+		Decay to 3
+		Throw to 4
+		Count = 337
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 338
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 339
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 340
+	Inspect 15848785 -> + 4 = 15848789
+		Decay to 5282929
+		Throw to 4
+		Count = 341
+	Inspect 52548358 -> + 4 = 52548362
+		Decay to 17516120
+		Throw to 6
+		Count = 342
+Monkey 3: 13240, 2645100
+	Inspect 13240 -> ^ 2 = 175297600
+		Decay to 58432533
+		Throw to 5
+		Count = 66
+	Inspect 2645100 -> ^ 2 = 52284816
+		Decay to 17428272
+		Throw to 5
+		Count = 67
+Monkey 4: 3, 3, 3, 3, 3, 3, 3, 3, 3, 5282929, 5282929, 5282929, 5282929
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 248
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 249
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 250
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 251
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 252
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 253
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 254
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 255
+	Inspect 3 -> + 7 = 10
+		Decay to 3
+		Throw to 6
+		Count = 256
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 257
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 258
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 259
+	Inspect 5282929 -> + 7 = 5282936
+		Decay to 1760978
+		Throw to 6
+		Count = 260
+Monkey 5: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 97438, 97438, 58432533, 17428272
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 322
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 323
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 324
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 325
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 326
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 327
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 328
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 329
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 330
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 331
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 332
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 333
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 334
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 335
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 336
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 337
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 338
+	Inspect 7 -> + 8 = 15
+		Decay to 5
+		Throw to 2
+		Count = 339
+	Inspect 97438 -> + 8 = 97446
+		Decay to 32482
+		Throw to 2
+		Count = 340
+	Inspect 97438 -> + 8 = 97446
+		Decay to 32482
+		Throw to 2
+		Count = 341
+	Inspect 58432533 -> + 8 = 58432541
+		Decay to 19477513
+		Throw to 2
+		Count = 342
+	Inspect 17428272 -> + 8 = 17428280
+		Decay to 5809426
+		Throw to 2
+		Count = 343
+Monkey 6: 17516120, 3, 3, 3, 3, 3, 3, 3, 3, 3, 1760978, 1760978, 1760978, 1760978
+	Inspect 17516120 -> + 5 = 17516125
+		Decay to 5838708
+		Throw to 1
+		Count = 339
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 340
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 341
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 342
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 343
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 344
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 345
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 346
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 347
+	Inspect 3 -> + 5 = 8
+		Decay to 2
+		Throw to 1
+		Count = 348
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 349
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 350
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 351
+	Inspect 1760978 -> + 5 = 1760983
+		Decay to 586994
+		Throw to 1
+		Count = 352
+Monkey 7: 
+120736
